@@ -222,3 +222,4 @@ __marimo__/
 venv/
 ~$*.xlsx
 .DS_Storedata/raw/*.csv
+data/raw/*.csv
